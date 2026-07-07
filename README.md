@@ -40,7 +40,7 @@ reach_me: monu1542006@Gmail.com
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,mysql,figma,git,github,docker,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,HTML,CSS,mongodb,mysql,figma,git,github,linux,vscode&theme=dark" />
 
 </div>
 
@@ -50,11 +50,11 @@ reach_me: monu1542006@Gmail.com
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=C44FC4&text_color=ffffff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=C44FC4&fire=FF6B6B" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vitianmonu001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=C44FC4&text_color=ffffff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitianmonu001&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=C44FC4&fire=FF6B6B" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=C44FC4&point=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitianmonu001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vitianmonu001&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B6B&line=C44FC4&point=ffffff" width="49%"/>
 
 </div>
 
@@ -62,7 +62,7 @@ reach_me: monu1542006@Gmail.com
 
 ### 🏆 Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vitianmonu001&theme=radical&no-frame=true&no-bg=false&margin-w=8&row=1&column=7"/>
 
 </div>
 
