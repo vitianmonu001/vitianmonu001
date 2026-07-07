@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Monu Kumar Chaudhary]</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social"></a>
 </p>
 
-- 🔭 I'm currently working on **[Project Name]**
+- 🔭 I'm currently working on **[Student Resource Hub]**
 - 🌱 I'm currently learning **[Skill/Technology]**
 - 👯 I'm looking to collaborate on **[Project/Type of project]**
 - 💬 Ask me about **[Your expertise]**
