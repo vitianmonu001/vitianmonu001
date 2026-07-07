@@ -15,14 +15,10 @@
 ### 🚀 About Me
 
 ```yaml
-name: [Your Name]
-role: [Your Role, e.g. Full Stack Developer]
-location: [Your City, India]
-currently_working_on: [Project Name]
-currently_learning: [Skill/Tech]
-looking_to_collaborate: [Project Type]
-fun_fact: [Something interesting]
-reach_me: your-email@example.com
+name: Monu Kumar Chaudhary
+role: Full Stack Developer , Game Developer
+location: Patna,Bihar 
+reach_me: monu1542006@Gmail.com
 ```
 
 <br clear="right"/>
