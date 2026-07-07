@@ -40,7 +40,7 @@ reach_me: monu1542006@Gmail.com
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,HTML,CSS,mongodb,mysql,figma,git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,mysql,figma,git,github,linux,vscode&theme=dark" />
 
 </div>
 
@@ -86,7 +86,7 @@ reach_me: monu1542006@Gmail.com
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=C44FC4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vitianmonu001&label=Profile+Views&color=C44FC4&style=for-the-badge"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,50:C44FC4,100:FF6B6B&height=150&section=footer"/>
 
